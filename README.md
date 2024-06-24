@@ -1,4 +1,4 @@
-# Enhancing Data Management Processes and Insights at Gelos Enterprises
+# Enhancing Data Management Processes and Insights
 **Overview**
 This project aims to enhance data management processes and insights at Gelos Enterprises through comprehensive analysis and strategic recommendations. Leveraging Python for data analysis, cleaning, and visualization, alongside Power BI for dynamic reporting, the initiative addresses key aspects of data lifecycle management—from collection and storage to preparation, integration, and governance.
 

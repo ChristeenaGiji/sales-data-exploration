@@ -14,6 +14,7 @@ This project aims to enhance data management processes and insights at Gelos Ent
     Utilize Python for data cleaning and analysis scripts.
     Use Power BI for creating interactive reports and dashboards.
     Ensure comprehensive documentation to ensure transparency and alignment with project goals.
+
  **Deliverables**
     Detailed Analysis Reports: Comprehensive reports on current data management practices.
     Actionable Recommendations: Practical suggestions for improving data collection, preparation, integration, and governance.
